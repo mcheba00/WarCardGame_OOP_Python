@@ -8,5 +8,5 @@ A simple implementation of the 'War' card game in Python, created to practice OO
 * **Full Game Simulation:** The game runs automatically from the first hand to the conclusion without user input.
 * **Win Condition:** The game correctly identifies the winner when one player collects all 52 cards.
 
-## Used techniologies
+## Used technologies
 Standard library 'random'. for card shuffling
